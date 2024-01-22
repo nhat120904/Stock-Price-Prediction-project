@@ -1,1 +1,4 @@
-# Stock-Price-Prediction-using-VAE-and-Diffusion-model
+# Stock-Price-Prediction-project
+Team member: 
+Nguyen Cuong Nhat
+Vuong Khang Minh
